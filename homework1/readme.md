@@ -24,9 +24,9 @@
 p = optimize()</code></pre>
 
 * 當資料為 x = [0, 1, 2, 3, 4] 且 y = [2, 3, 4, 5, 6] 時，結果如下
-![picture]()
-![picture]()
+![picture](https://github.com/ZKX-0326/ai110b/blob/master/homework1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-04-30%20192522.png)
+![picture](https://github.com/ZKX-0326/ai110b/blob/master/homework1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-04-30%20192545.png)
 
 * 當資料為 x = [0, 1, 2, 3, 4] 且 y = [1.9, 3.1, 3.9, 5.0, 6.2] 時，結果如下
-![picture]()
-![picture]()
+![picture](https://github.com/ZKX-0326/ai110b/blob/master/homework1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-04-30%20192445.png)
+![picture](https://github.com/ZKX-0326/ai110b/blob/master/homework1/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-04-30%20192418.png)
