@@ -9,7 +9,7 @@
 將已確定不可能的選項剪掉，以減少 MiniMax演算法搜尋樹的分支數量，增加搜尋空間。
 
 ## 程式碼
-此為參考老師及colingogogo的專案後進行修改而成的[code]()
+此為參考老師及colingogogo的專案後進行修改而成的[code](https://github.com/ZKX-0326/ai110b/blob/master/midterm/gomoku.py)
 
 ## 參考資料
 * [陳鍾誠老師的code](https://gitlab.com/ccc109/ai/-/blob/master/11-chess/01-gomoku/gomoku.py)
@@ -17,5 +17,6 @@
 
 ## 授權聲明
 * 本專案的程式採用[MIT 授權協議](https://opensource.org/licenses/MIT)
+* 文章部分衍生自維基百科，採用 [CC:BY-SA](https://zh.wikipedia.org/zh-hant/Wikipedia%3ACC_BY-SA_3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC) 授權
 * [程式人媒體的授權聲明](http://ww1.programmermedia.org/)
 * 非以上授權之圖文在筆記處皆有附上來源及網址
